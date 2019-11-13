@@ -1,0 +1,17 @@
+
+public class Hello_14 {
+
+	public static void main(String[] args) {
+
+		int num1 = 0;
+		num1 = 40;
+		num1 = 50;
+		num1 = 0;
+		num1 = 100;
+		num1 = 200;
+		num1 = 0;
+		
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+
+public class Hello_08 {
+
+	public static void main(String[] args) {
+
+		int num1 = 30;
+		System.out.println(num1);
+		
+		
+		
+	}
+
+}
