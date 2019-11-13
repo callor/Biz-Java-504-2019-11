@@ -1,0 +1,22 @@
+
+public class Hello_07 {
+
+	public static void main(String[] args) {
+
+		/*
+		 * 변수는 같은 이름으로 2번 이상 선언할수 없다.
+		 * int num1 = ?? 라고 선언이 되면
+		 * 이후의 코드에서 
+		 * int num1 = xxx 이런식의 코드를 사용해서는 안된다.
+		 */
+		int num1 = 40;
+		int num11 = 50;
+		
+		double num2 = 30.2;
+		double num21 = 40.2;
+		
+		String name1 = "홍길동";
+		String name11 = "이몽룡";
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class Hello_07 {
+
+	public static void main(String[] args) {
+
+		int num1 = 40;
+		int num1 = 50;
+		double num2 = 30.2;
+		double num2 = 40.2;
+		
+		String name1 = "홍길동";
+		String name2 = "이몽룡";
+		
+		
+	}
+
+}
