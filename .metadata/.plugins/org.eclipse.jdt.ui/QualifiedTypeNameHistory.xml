@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.biz.method.Method_01"/>
+<fullyQualifiedTypeName name="com.biz.method.MethodS"/>
+<fullyQualifiedTypeName name="com.biz.method.NumberS"/>
+</qualifiedTypeNameHistroy>
