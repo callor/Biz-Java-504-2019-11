@@ -3,4 +3,12 @@
 <fullyQualifiedTypeName name="com.biz.method.Method_01"/>
 <fullyQualifiedTypeName name="com.biz.method.MethodS"/>
 <fullyQualifiedTypeName name="com.biz.method.NumberS"/>
+<fullyQualifiedTypeName name="com.biz.classes.ScoreV2"/>
+<fullyQualifiedTypeName name="com.biz.classes.method.MethodStatic_01"/>
+<fullyQualifiedTypeName name="com.biz.classes.exec.MethodEx_02"/>
+<fullyQualifiedTypeName name="com.biz.classes.method.MethodStatic_02"/>
+<fullyQualifiedTypeName name="com.biz.classes.method.Method_03"/>
+<fullyQualifiedTypeName name="com.biz.classes.method.Method_04"/>
+<fullyQualifiedTypeName name="com.biz.classes.method.Method_05"/>
+<fullyQualifiedTypeName name="com.biz.classes.method.Method_06"/>
 </qualifiedTypeNameHistroy>
