@@ -11,4 +11,18 @@
 <fullyQualifiedTypeName name="com.biz.classes.method.Method_04"/>
 <fullyQualifiedTypeName name="com.biz.classes.method.Method_05"/>
 <fullyQualifiedTypeName name="com.biz.classes.method.Method_06"/>
+<fullyQualifiedTypeName name="com.biz.method.classes.GugudanClassV1"/>
+<fullyQualifiedTypeName name="com.biz.method.classes.BookService"/>
+<fullyQualifiedTypeName name="com.biz.method.classes.BookServiceV2"/>
+<fullyQualifiedTypeName name="com.biz.method.classes.Book"/>
+<fullyQualifiedTypeName name="com.biz.method.service.StudentService"/>
+<fullyQualifiedTypeName name="com.biz.method.domain.StudentDTO"/>
+<fullyQualifiedTypeName name="com.biz.arrays.service.ArrayService"/>
+<fullyQualifiedTypeName name="com.biz.method.service.MethodService"/>
+<fullyQualifiedTypeName name="com.biz.method.service.NumberService"/>
+<fullyQualifiedTypeName name="com.biz.method.service.ReturnServiceV2"/>
+<fullyQualifiedTypeName name="com.biz.method.service.StudentServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.method.service.StudentServiceV2"/>
+<fullyQualifiedTypeName name="com.biz.method.service.StudentServiceV3"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
