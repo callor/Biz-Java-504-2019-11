@@ -25,4 +25,9 @@
 <fullyQualifiedTypeName name="com.biz.method.service.StudentServiceV2"/>
 <fullyQualifiedTypeName name="com.biz.method.service.StudentServiceV3"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.biz.method.service.NumberServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.method.service.NumberServiceV2"/>
+<fullyQualifiedTypeName name="com.biz.method.domain.BookDTO"/>
+<fullyQualifiedTypeName name="com.biz.method.service.BookServiceV1"/>
+<fullyQualifiedTypeName name="com.biz.method.service.ScoreServiceV1"/>
 </qualifiedTypeNameHistroy>
